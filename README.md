@@ -1,4 +1,4 @@
-# PythonProject
+# Instacart Project
 ## Overview
 
 The material in this repository shows off my Python work for Instacart. I was tasked to perform an initial data and exploratory analysis of some of their data to derive insights and suggest strategies for better segmentation. They wanted to target different customers with applicable marketing campaigns to see whether they have an effect on the sale of products.  
