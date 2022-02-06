@@ -15,3 +15,11 @@ The Instacart stakeholders asked the following questions:
   - Is there a connection between age and family status in terms of ordering habits?
   - What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family  status? 
   - What differences can you find in ordering habits of different customer profiles?
+
+## Tools
+For this project, the following python libraries were used:
+* pandas - for data analysis
+* seaborn - for visulaizations
+
+## Executing the Code
+The code is available as jupyter notebooks, available under /scripts/
